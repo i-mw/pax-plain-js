@@ -2,4 +2,4 @@
 
 * This porject is part of Udacity fend projects.
 
-* find it live here: i-mw.github.io/pax-plain-js
+* find it live here: https://i-mw.github.io/pax-plain-js
